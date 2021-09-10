@@ -116,8 +116,8 @@ namespace MasterFish
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.ListBox Fish;
         private System.Windows.Forms.Button AddFish;
+        public System.Windows.Forms.ListBox Fish;
     }
 }
 

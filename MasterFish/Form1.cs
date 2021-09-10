@@ -27,6 +27,7 @@ namespace MasterFish
         {
             Add f2 = new Add();
             f2.Show();
+            
         }
     }
 }
