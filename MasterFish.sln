@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterFish", "MasterFish\MasterFish.csproj", "{33257699-77A4-45A0-90AE-20CF720FB55F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterFishCore", "MasterFishCore\MasterFishCore.csproj", "{728E5E1A-35AA-45E6-9831-6052671DF025}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterFishConsole", "MasterFishConsole\MasterFishConsole.csproj", "{F027BCCF-433C-4077-80CF-BAC5D6784ED1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{33257699-77A4-45A0-90AE-20CF720FB55F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33257699-77A4-45A0-90AE-20CF720FB55F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33257699-77A4-45A0-90AE-20CF720FB55F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{728E5E1A-35AA-45E6-9831-6052671DF025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{728E5E1A-35AA-45E6-9831-6052671DF025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{728E5E1A-35AA-45E6-9831-6052671DF025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{728E5E1A-35AA-45E6-9831-6052671DF025}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F027BCCF-433C-4077-80CF-BAC5D6784ED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F027BCCF-433C-4077-80CF-BAC5D6784ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F027BCCF-433C-4077-80CF-BAC5D6784ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F027BCCF-433C-4077-80CF-BAC5D6784ED1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
